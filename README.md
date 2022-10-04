@@ -29,10 +29,15 @@ Domain 4: Billing and Pricing
 4.3 Identify resources available for billing support
 
 
+
+
 The AWS Certified Cloud Practitioner exam consists of 65 questions to be completed in 90 minutes. The minimum passing score is 70%.
 Response Types
 There are two types of questions on the examination:
  Multiple choice: Has one correct response and three incorrect responses (distractors).
  Multiple response: Has two or more correct responses out of five or more options.
 
+
+https://www.awslagi.com/aws-certified-cloud-practitioner-p2/
+https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/
 
