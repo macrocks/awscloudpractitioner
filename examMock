@@ -355,3 +355,135 @@ B. Cost Explorer
 C. AWS Cost and Usage Report
 D. AWS Budgets
 ANS:B
+
+Which tasks are the responsibility of AWS, according to the AWS shared responsibility model? (Choose two.)
+A. Patch the Amazon EC2 guest operating system.
+B. Upgrade the firmware of the network infrastructure.
+C. Apply password rotation for IAM users.
+D. Maintain the physical security of edge locations.
+E. Maintain least privilege access to the root user account.
+ANS: BD
+
+A company wants to run production workloads on AWS. The company needs concierge service, a designated AWS technical account manager (TAM), and technical support that is available 24 hours a day, 7 days a week.
+Which AWS Support plan will meet these requirements?
+A. AWS Basic Support
+B. AWS Enterprise Support
+C. AWS Business Support
+D. AWS Developer Support
+ANS: B
+
+Which architecture design principle describes the need to isolate failures between dependent components in the AWS Cloud?
+A. Use a monolithic design.
+B. Design for automation.
+C. Design for single points of failure.
+D. Loosely couple components.
+ANS:D
+
+Which AWS services are managed database services? (Choose two.)
+A. Amazon Elastic Block Store (Amazon EBS)
+B. Amazon S3
+C. Amazon RDS
+D. Amazon Elastic File System (Amazon EFS)
+E. Amazon DynamoDB
+ANS: CE
+
+A company is using the AWS Free Tier for several AWS services for an application.
+What will happen if the Free Tier usage period expires or if the application use exceeds the Free Tier usage limits?
+A. The company will be charged the standard pay-as-you-go service rates for the usage that exceeds the Free Tier usage.
+B. AWS Support will contact the company to set up standard service charges.
+C. The company will be charged for the services it consumed during the Free Tier period, plus additional charges for service consumption after the Free Tier period.
+D. The company's AWS account will be frozen and can be restarted after a payment plan is established.
+ANS: A
+
+A company recently deployed an Amazon RDS instance in its VPC. The company needs to implement a stateful firewall to limit traffic to the private corporate network.
+Which AWS service or feature should the company use to limit network traffic directly to its RDS instance?
+A. Network ACLs
+B. Security groups (Most Voted. stateful)
+C. AWS WAF
+D. Amazon GuardDuty
+ANS: B 
+
+Which AWS service uses machine learning to help discover, monitor, and protect sensitive data that is stored in Amazon S3 buckets?
+A. AWS Shield
+B. Amazon Macie
+C. AWS Network Firewall
+D. Amazon Cognito
+ANS: B
+
+A company wants to improve the overall availability and performance of its applications that are hosted on AWS.
+Which AWS service should the company use?
+A. Amazon Connect
+B. Amazon Lightsail
+C. AWS Global Accelerator
+D. AWS Storage Gateway
+ANS: C
+
+Which AWS service or feature identifies whether an Amazon S3 bucket or an IAM role has been shared with an external entity?
+A. AWS Service Catalog
+B. AWS Systems Manager
+C. AWS IAM Access Analyzer
+D. AWS Organizations
+ANS: C
+
+A company does not want to rely on elaborate forecasting to determine its usage of compute resources. Instead, the company wants to pay only for the resources that it uses. The company also needs the ability to increase or decrease its resource usage to meet business requirements.
+Which pillar of the AWS Well-Architected Framework aligns with these requirements?
+A. Operational excellence
+B. Security
+C. Reliability
+D. Cost optimization
+ANS: D
+
+A company wants to launch its workload on AWS and requires the system to automatically recover from failure.
+Which pillar of the AWS Well-Architected Framework includes this requirement?
+A. Cost optimization
+B. Operational excellence
+C. Performance efficiency
+D. Reliability
+ANS: D
+
+A large enterprise with multiple VPCs in several AWS Regions around the world needs to connect and centrally manage network connectivity between its VPCs.
+Which AWS service or feature meets these requirements?
+A. AWS Direct Connect
+B. AWS Transit Gateway
+C. AWS Site-to-Site VPN
+D. VPC endpoints
+ANS: B
+
+Which AWS service supports the creation of visual reports from AWS Cost and Usage Report data?
+A. Amazon Athena
+B. Amazon QuickSight
+C. Amazon CloudWatch
+D. AWS Organizations
+ANS: B
+
+Which AWS service should be used to monitor Amazon EC2 instances for CPU and network utilization?
+A. Amazon Inspector
+B. AWS CloudTrail
+C. Amazon CloudWatch
+D. AWS Config
+ANS: C
+
+A company is preparing to launch a new web store that is expected to receive high traffic for an upcoming event. The web store runs only on AWS, and the company has an AWS Enterprise Support plan.
+Which AWS resource will provide guidance about how the company should scale its architecture and operational support during the event?
+A. AWS Abuse team
+B. The designated AWS technical account manager (TAM)
+C. AWS infrastructure event management
+D. AWS Professional Services
+ANS: C
+
+A user wants to deploy a service to the AWS Cloud by using infrastructure-as-code (IaC) principles.
+Which AWS service can be used to meet this requirement?
+A. AWS Systems Manager
+B. AWS CloudFormation
+C. AWS CodeCommit
+D. AWS Config
+ANS: B
+
+
+
+
+
+
+
+
+
