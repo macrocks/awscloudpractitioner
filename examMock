@@ -480,7 +480,126 @@ D. AWS Config
 ANS: B
 
 
+A company that has multiple business units wants to centrally manage and govern its AWS Cloud environments. The company wants to automate the creation of
+AWS accounts, apply service control policies (SCPs), and simplify billing processes.
+Which AWS service or tool should the company use to meet these requirements?
+A. AWS Organizations
+B. Cost Explorer
+C. AWS Budgets
+D. AWS Trusted Advisor
+ANS: A
 
+Which IT controls do AWS and the customer share, according to the AWS shared responsibility model? (Choose two.)
+A. Physical and environmental controls
+B. Patch management
+C. Cloud awareness and training
+D. Zone security
+E. Application data encryption
+ANS: BC
+
+A company is launching an application in the AWS Cloud. The application will use Amazon S3 storage. A large team of researchers will have shared access to the data. The company must be able to recover data that is accidentally overwritten or deleted.
+Which S3 feature should the company turn on to meet this requirement?
+A. Server access logging
+B. S3 Versioning
+C. S3 Lifecycle rules
+D. Encryption in transit and at rest
+ANS: B
+
+A manufacturing company has a critical application that runs at a remote site that has a slow internet connection. The company wants to migrate the workload to
+AWS. The application is sensitive to latency and interruptions in connectivity. The company wants a solution that can host this application with minimum latency.
+Which AWS service or feature should the company use to meet these requirements?
+A. Availability Zones
+B. AWS Local Zones
+C. AWS Wavelength
+D. AWS Outposts
+ANS: D
+
+A company wants to migrate its applications from its on-premises data center to a VPC in the AWS Cloud. These applications will need to access on-premises resources.
+Which actions will meet these requirements? (Choose two.)
+A. Use AWS Service Catalog to identify a list of on-premises resources that can be migrated.
+B. Create a VPN connection between an on-premises device and a virtual private gateway in the VPC.
+C. Use an Amazon CloudFront distribution and configure it to accelerate content delivery close to the on-premises resources.
+D. Set up an AWS Direct Connect connection between the on-premises data center and AWS.
+E. Use Amazon CloudFront to restrict access to static web content provided through the on-premises web servers.
+ANS:  BD
+
+A company wants to use the AWS Cloud to provide secure access to desktop applications that are running in a fully managed environment.
+Which AWS service should the company use to meet this requirement?
+A. Amazon S3
+B. Amazon AppStream 2.0
+C. AWS AppSync
+D. AWS Outposts
+ANS: B
+
+A company wants to implement threat detection on its AWS infrastructure. However, the company does not want to deploy additional software.
+Which AWS service should the company use to meet these requirements?
+A. Amazon VPC
+B. Amazon EC2
+C. Amazon GuardDuty
+D. AWS Direct Connect
+ANS: C
+
+Which AWS service uses edge locations?
+A. Amazon Aurora
+B. AWS Global Accelerator
+C. Amazon Connect
+D. AWS Outposts
+
+ANS: B
+
+A company needs to install an application in a Docker container.
+Which AWS service eliminates the need to provision and manage the container hosts?
+A. AWS Fargate
+B. Amazon FSx for Windows File Server
+C. Amazon Elastic Container Service (Amazon ECS)
+D. Amazon EC2
+ANS: A
+
+Which AWS service or feature checks access policies and offers actionable recommendations to help users set secure and functional policies?
+A. AWS Systems Manager
+B. AWS IAM Access Analyzer
+C. AWS Trusted Advisor
+D. Amazon GuardDuty
+ANS: B
+
+
+A company has a fleet of cargo ships. The cargo ships have sensors that collect data at sea, where there is intermittent or no internet connectivity. The company needs to collect, format, and process the data at sea and move the data to AWS later.
+Which AWS service should the company use to meet these requirements?
+A. AWS IoT Core
+B. Amazon Lightsail
+C. AWS Storage Gateway
+D. AWS Snowball Edge
+ANS: ***
+
+A retail company needs to build a highly available architecture for a new ecommerce platform. The company is using only AWS services that replicate data across multiple Availability Zones.
+Which AWS services should the company use to meet this requirement? (Choose two.)
+A. Amazon EC2
+B. Amazon Elastic Block Store (Amazon EBS)
+C. Amazon Aurora
+D. Amazon DynamoDB
+E. Amazon Redshift
+ANS: A***
+
+Which characteristic of the AWS Cloud helps users eliminate underutilized CPU capacity?
+A. Agility
+B. Elasticity
+C. Reliability
+D. Durability
+ANS: B
+
+Service control policies (SCPs) manage permissions for which of the following?
+A. Availability Zones
+B. AWS Regions
+C. AWS Organizations
+D. Edge locations
+ANS: C
+
+Which AWS service can be used to encrypt data at rest?
+A. Amazon GuardDuty
+B. AWS Shield
+C. AWS Security Hub
+D. AWS Key Management Service (AWS KMS)
+ANS: D
 
 
 
